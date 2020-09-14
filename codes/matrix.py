@@ -15,7 +15,7 @@ LF = LF.T
 half_life = 60
 
 time_len = 4100
-len_test = 2
+len_test = 100
 len_prepare = 0
 d = np.power(0.5, 1/half_life)
 d_sqrt = np.sqrt(d)
